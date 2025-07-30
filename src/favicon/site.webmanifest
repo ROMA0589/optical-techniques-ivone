@@ -1,0 +1,26 @@
+{
+  "name": "Técnicas em Óptica - Ivone Roma",
+  "short_name": "Óptica Ivone",
+  "description": "Dicas e orientações sobre Técnicas em Óptica por Ivone Roma - Profissional desde 1992",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2c5aa0",
+  "theme_color": "#2c5aa0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./src/favicon/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./src/favicon/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "apple touch icon"
+    }
+  ],
+  "categories": ["education", "health", "professional"],
+  "lang": "pt-BR"
+}
